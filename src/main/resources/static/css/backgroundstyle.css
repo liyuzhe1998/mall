@@ -1,0 +1,7 @@
+body {
+  background-image: url('/image/111.jpg') !important;
+  background-size: cover;
+  min-height: 269px;
+  background-position: 50% 0px;
+  background-repeat: no-repeat no-repeat;
+}
